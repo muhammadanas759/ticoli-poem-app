@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109656374275",
+    "project_id": "ticoli-dcd27",
+    "storage_bucket": "ticoli-dcd27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109656374275:android:31a525f6405d21db676236",
+        "android_client_info": {
+          "package_name": "com.example.horror_story"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109656374275-fdf8q4ct0f5a01th66o5tfhm9hm86v51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJCh0jDDGx_NiaUA1uM1C9Z7zhrgcHyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109656374275-fdf8q4ct0f5a01th66o5tfhm9hm86v51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,225 @@
+name: horror_story
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg:
+  intl:
+  json_annotation:
+  url_launcher:
+  archive:
+  http:
+  path_provider:
+  lottie:
+  firebase_database:
+  firebase_core:
+  #just_audio: ^0.9.7
+  synchronized:
+  built_value:
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  json_serializable:
+  google_fonts: 
+  flutter_launcher_icons:
+  sizer:
+  built_value_generator:
+  assets_audio_player: ^3.0.3+9
+  flutter_rating_bar:
+  cloud_firestore:
+  device_info:
+  get:
+  flutter_firebase_firestore:
+  firebase_analytics:
+
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/icons/icon.png"
+  
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/animated/arrow-down.json
+    - assets/animated/story-back.json
+    - assets/animated/storycover-loading.json
+    - assets/audio/jazz.mp3
+    - assets/audio/sound_chidren_sleep_8.mp3
+    - assets/audio/sound_children_playing_3.mp3
+    - assets/audio/sound_coover.mp3
+    - assets/audio/sound_cricket_singing_5.mp3
+    - assets/audio/sound_owl_singing_4.mp3
+    - assets/audio/sound_snake.mp3
+    - assets/audio/sound_story_end_9.mp3
+    - assets/audio/sound_wold_singing_6.mp3
+    - assets/gno/img_gno_cover.png
+    - assets/gwaps/bar_text_five_a.png
+    - assets/gwaps/bar_text_five_b.png
+    - assets/gwaps/bar_text_four_a.png
+    - assets/gwaps/bar_text_four_b.png
+    - assets/gwaps/bar_text_four_c.png
+    - assets/gwaps/bar_text_four_d.png
+    - assets/gwaps/bar_text_one.png
+    - assets/gwaps/bar_text_one_b.png
+    - assets/gwaps/bar_text_one_c.png
+    - assets/gwaps/bar_text_one_d.png
+    - assets/gwaps/bar_text_one_e.png
+    - assets/gwaps/bar_text_one_f.png
+    - assets/gwaps/bar_text_one_g.png
+    - assets/gwaps/bar_text_one_h.png
+    - assets/gwaps/bar_text_six_a.png
+    - assets/gwaps/bar_text_six_b.png
+    - assets/gwaps/bar_text_three_a.png
+    - assets/gwaps/bar_text_three_b.png
+    - assets/gwaps/bar_text_three_c.png
+    - assets/gwaps/bar_text_three_e.png
+    - assets/gwaps/bar_text_three_f.png
+    - assets/gwaps/bar_text_two_a.png
+    - assets/gwaps/bar_text_two_b.png
+    - assets/gwaps/bar_text_two_c.png
+    - assets/gwaps/bar_text_two_d.png
+    - assets/gwaps/bar_text_two_e.png
+    - assets/gwaps/bar_text_two_f.png
+    - assets/gwaps/bar_text_two_g.png
+    - assets/gwaps/img_bg_receiver.png
+    - assets/gwaps/img_bg_sender.png
+    - assets/gwaps/img_harry.png
+    - assets/gwaps/img_pink_girl.png
+    - assets/gwaps/img_story_home_cover.png
+    - assets/gwaps/img_tommy.png
+    - assets/icons/arrow_down_story_one.png
+    - assets/icons/arrow_down_story_three.png
+    - assets/icons/catalog.svg
+    - assets/icons/close.svg
+    - assets/icons/close_story_one.png
+    - assets/icons/close_story_three.png
+    - assets/icons/home.svg
+    - assets/icons/icon.png
+    - assets/icons/img_arrow_down.png
+    - assets/icons/img_story_two_close.png
+    - assets/icons/logo_goodnighthorror.svg
+    - assets/icons/logo_ticoli.svg
+    - assets/icons/menu.svg
+    - assets/images/app_new_icon.png
+    - assets/images/early_phase_duck.png
+    - assets/images/ic_forest.svg
+    - assets/images/ic_girl_with_pink_shoe.svg
+    - assets/images/ic_good_night_owl.svg
+    - assets/images/ic_play_bg.svg
+    - assets/images/ic_play_sign.svg
+    - assets/images/img_baloons.png
+    - assets/images/img_bar_4.png
+    - assets/images/img_bar_eight.png
+    - assets/images/img_bar_five.png
+    - assets/images/img_bar_nine.png
+    - assets/images/img_bar_one.png
+    - assets/images/img_bar_seven.png
+    - assets/images/img_bar_six.png
+    - assets/images/img_bar_three.png
+    - assets/images/img_bar_two.png
+    - assets/images/img_duck.svg
+    - assets/images/img_el_phant.png
+    - assets/images/img_elephant_thumbnail.svg
+    - assets/images/img_girl.png
+    - assets/images/img_heart.png
+    - assets/images/img_mr_bee.svg
+    - assets/images/img_play_arrow.png
+    - assets/images/img_play_btn_bg.png
+    - assets/images/img_splash_logo.png
+    - assets/images/img_story_name.png
+    - assets/images/img_story_twenty_six.svg
+    - assets/images/kid_catelog.png
+    - assets/images/kid_home.png
+    - assets/images/kidr_menu.png
+    - assets/images/kids-01.png
+    - assets/images/kids-02.png
+    - assets/images/kids-03.png
+    - assets/images/kids-04.png
+    - assets/images/kids-05.png
+    - assets/images/kids-06.png
+    - assets/images/splash_image.png
+    - assets/images/tale-cover-1.png
+    - assets/images/tale-cover-2.png
+    - assets/images/tale-cover-3.png
+    - assets/images/tale-cover-4.png
+    - assets/images/tale_dead_woman.png
+    - assets/images/tale_love_of_my_life.png
+    - assets/images/tale_masung_tunnel.png
+    - assets/images/tale_voodoo_artefacts.png
+    - assets/images/thumb-dead_woman.png
+    - assets/images/thumb-friendly_advice.png
+    - assets/images/thumb-love_of_my_life.png
+    - assets/images/thumb-masung_tunnel.png
+    - assets/images/thumb-night_hunger.png
+    - assets/images/thumb-voodoo.png
+    - assets/images/thumb-way_back_home_lady.png
+    - assets/p_forest/story_two_cover.png
+    - assets/stories/duck_ma_ma.json
+    - assets/stories/early_phase.json
+    - assets/stories/el_phant.json
+    - assets/stories/kid-story-01.json
+    - assets/stories/kid-story-02.json
+    - assets/stories/kid-story-03.json
+    - assets/stories/mr_bee.json
+    - assets/stories/story-01.json
+    - assets/stories/story-02.json
+    - assets/stories/story-03.json
+    - assets/stories/story-04.json
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: fonts/Lato-Black.ttf
+          weight: 900
+        - asset: fonts/Lato-Regular.ttf
+          weight: 400
+        - asset: fonts/Lato-Bold.ttf
+          weight: 700
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Bold.ttf
+          weight: 700
+    - family: SuezOne
+      fonts:
+        - asset: fonts/SuezOne-Regular.ttf
+          weight: 400
+    - family: Arvo
+      fonts:
+        - asset: fonts/Arvo-Bold.ttf
+          weight: 700

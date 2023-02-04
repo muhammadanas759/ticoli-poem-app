@@ -1,0 +1,23 @@
+{
+  "storyId": "kid_story_004",
+  "zipFileName": "gwaps.zip",
+  "assetPackageUrl": "",
+  "localDir": "gwaps",
+  "title": "Mr Bee",
+  "homeCoverAsset": null,
+  "thumbnailAsset": "assets/images/img_mr_bee.svg",
+  "duration": 6,
+  "date": null,
+  "catalogType": "Future",
+  "coverImageAsset": "img_story_cover_three.png",
+  "paddingTop": 88,
+  "paddingBottom": 40,
+  "fontFamily": "#FEFFFF",
+  "fontSize": 40,
+  "backgroundTransitions": [
+  ],
+  "items": [
+  ],
+  "audioItems": [
+  ]
+}

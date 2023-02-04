@@ -1,0 +1,179 @@
+{
+
+  "storyId": "hs0002",
+  "zipFileName": "soml.zip",
+  "assetPackageUrl": "https://firebasestorage.googleapis.com/v0/b/goodnighthorror.appspot.com/o/soml.zip?alt=media&token=05682357-6547-470c-b9eb-1df7f031461c",
+  "localDir": "soml",
+  "title": "Love of my Life",
+  "homeCoverAsset": "assets/images/tale_love_of_my_life.png",
+  "thumbnailAsset": "assets/images/thumb-love_of_my_life.png",
+  "duration": 6,
+  "date": null,
+  "catalogType": "Ready",
+  "coverTitleAsset": "soml-title.png",
+  "coverImageAsset": "soml-cover.png",
+  "paddingTop": 88,
+  "paddingBottom": 271,
+  "fontFamily": "SuezOne",
+  "fontSize": 40,
+  "backgroundTransitions": [
+    {
+      "startColor": "#ffffff",
+      "endColor": "#000000",
+      "itemRefId": 1,
+      "location": "Center",
+      "duration": 0.2
+    }
+  ],
+  "items": [
+    {
+      "content": "My name is Sadie and this is the story that changed my life.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 64,
+      "content": "I am 27 years old, and I met my boyfriend 7 months ago. It was at a jazz concert.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "id": 2,
+      "gap": 158,
+      "asset": "soml-image-jazz.png",
+      "horizontalGap": 70
+    },
+    {
+      "gap": 153,
+      "content": "I went alone, but soon enough a handsome man, in his early 30's, captured my attention. And it was mutual. Matt is his name. Tall, dark-haired, and dark eyes. He is as gentle as mysterious. We talked for hours, during the rest of the evening, embraced by the nocturnal magic of the music and the environment itself.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "id": 3,
+      "gap": 128,
+      "asset": "soml-image-boyfriend.png",
+      "horizontalGap": 70
+    },
+    {
+      "gap": 120,
+      "content": "In the remaining weeks, we went out several times. And with no surprise, we became a couple. Matt is a scientist. He said to me he works in the field of genetic investigation. Very interesting, I said, truly fascinated by my new boyfriend.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 142,
+      "content": "As time passed, our relationship flourished. I was starting to think that Matt could be the one. Besides being smart, he also revealed a wicked sense of humor, a little dark and misanthropic, which I loved.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 131,
+      "asset": "soml-image-couple.png",
+      "horizontalGap": 70
+    },
+    {
+      "gap": 111,
+      "content": "We were doing so many things, together. Traveling to other countries, playing tennis, riding horses in beautiful landscapes, and of course, also experiencing normal and cliché activities, which are no less pleasurable. Watching movies at home, cooking together, just... enjoying ourselves.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 70,
+      "content": "On one occasion, Matt had the romantic idea of taking me to his family's cottage, in some paradisiac forest. Away from the urban world, from everyone else. It was in late November, when we went there, to spend a wonderful week. Walking around, in the quiet woods, among Nature's sounds, breathing its air. And later on, during the night, enjoying the fireplace with a nice cup of tea, and listening to music.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 70,
+      "content": "In one of those nights, I was feeling particularly sleepy... But so sleepy... Which was to be expected. I was so relaxed, with everything around me. With Matt... And before falling asleep in Matt's arms, I still managed to whisper to him:\n\n- I love you, Matt...Thank you for making me so happy...\n\nHe just smiled. And I closed my eyes.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "id": 1,
+      "gap": 79,
+      "asset": "soml-image-boyfriend-closeup.png",
+      "horizontalGap": 70
+    },
+    {
+      "gap": 644,
+      "content": "But when I woke up... I was in a different world... It took me a while to realize I wasn't dreaming when I found myself lying in a bed, inside a white bedroom. It resembled a hospital bedroom.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 109,
+      "asset": "soml-image-me-looking-down.png",
+      "horizontalGap": 70
+    },
+    {
+      "gap": 206,
+      "content": "In a panic, I got out of bed. I was dressed in a white robe... I tried to open the only door. It was locked. There was a window, but I couldn't see through it.\n\nBut soon enough, I would know that Matt could see me... from the other side...\n\nTerrified, I started screaming for help. For anyone. At least I wanted to know what happened.\n\nAnd I would...",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 130,
+      "content": "Matt came into the bedroom, within one hour. He wasn't alone. 2 more men were with him. All of them were dressed in white medical gowns.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 150,
+      "asset": "soml-image-cientists.png",
+      "horizontalGap": 70
+    },
+    {
+      "gap": 254,
+      "content": "Matt came into the bedroom, within one hour. He wasn't alone. 2 more men were with him. All of them were dressed in white medical gowns.\n\nMatt explained to me what I was doing there, and why...\n\nI fell on my knees, shivering, as I heard his words.\n\nHe was playing me like a fool, since the beginning. Matt runs a clandestine laboratory. In which he breeds humanoid hybrids. He fuses human DNA with those of other animal species...",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 124,
+      "asset": "soml-image-experiments.png",
+      "horizontalGap": 70
+    },
+    {
+      "gap": 184,
+      "content": "And of course, he needs women to impregnate... Women who will become slaves to his experiments. Women like me. Until we are no longer fertile... Then, we are terminated...\n\nMatt was “kind” enough to tell me that I will give birth to a mix of human and... ",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 124,
+      "asset": "soml-image-pig.png",
+      "horizontalGap": 118
+    },
+    {
+      "gap": 95,
+      "content": "As I write this, in my secret diary, my belly is huge. It has passed 5 months, I can feel it growing inside me... I am giving birth to it in the next few months... ",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 176,
+      "asset": "soml-image-pregnant.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 83,
+      "content": "I can’t wait to have it in my arms. To grow healthy and strong. Whatever it is. ",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 193,
+      "asset": "soml-image-baby-pig.png",
+      "horizontalGap": 63
+    }
+  ],
+  "audioItems": [
+    {
+      "asset": "assets/audio/jazz.mp3",
+      "startItemRefId": 2,
+      "endItemRefId": 3
+    }
+  ]
+}

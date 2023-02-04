@@ -1,0 +1,180 @@
+{
+  "storyId": "hs0004",
+  "zipFileName": "todw.zip",
+  "assetPackageUrl": "https://firebasestorage.googleapis.com/v0/b/goodnighthorror.appspot.com/o/todw.zip?alt=media&token=6b912e70-a703-4291-9d78-12b684ae2b9d",
+  "localDir": "todw",
+  "title": "The tale of the dead woman",
+  "homeCoverAsset": "assets/images/tale_dead_woman.png",
+  "thumbnailAsset": "assets/images/thumb-dead_woman.png",
+  "duration": 7,
+  "date": "2020-09-20T00:00:00.000",
+  "catalogType": "Ready",
+  "coverTitleAsset": "todw-title.png",
+  "coverImageAsset": "todw-cover.png",
+  "paddingTop": 136,
+  "paddingBottom": 0,
+  "fontFamily": "SuezOne",
+  "fontSize": 40,
+  "backgroundTransitions": [
+    {
+      "startColor": "#ffffff",
+      "endColor": "#000000",
+      "itemRefId": 1,
+      "location": "Top",
+      "duration": 0.2
+    }
+  ],
+  "items": [
+    {
+      "content": "I had had enough of the troubled city life. After the accident, I couldn't bear to hear the sounds of cars whooshing past me, their horns and squeals brought everything back to me, and it got fairly hard for me to even walk to the grocery store merely a few blocks away. Upon my doctor's advice, I had decided to move to the countryside for a few months to connect with nature.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 99,
+      "asset": "todw-01-farmhouse.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 145,
+      "content": "I was quite satisfied with the land I had bought. On my way to the highway, I kept thinking about how lucky I had been to own land in such beautiful countryside for an exceptionally reasonable rate. This man had been oddly eager to sell it to me as soon as possible, and I was just as anxious to buy it from him.\n\nI reached the site and entered the old house that I had purchased. As I stepped in, an extremely sharp odor hit my nose.\n",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 34,
+      "asset": "todw-02-flies.png",
+      "horizontalGap": 34.5
+    },
+    {
+      "gap": 119,
+      "content": "The place reeked, and it seemed as if something had died in there. I barely stopped myself from throwing up. 'No wonder it was so cheap,' I thought to myself. It was a minor setback, but I wasn't going to let it get to me. I booked myself a room at the inn close by and appointed some people to work upon the house's renovations.\n",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "id": 1,
+      "gap": 188,
+      "content": "I spent two nights at the inn and finally got settled into my house after it was finished.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 1400,
+      "asset": "todw-03-old-lady.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 197,
+      "content": "It was almost good as new; they had thoroughly fixed and cleaned up everything. I made myself some hot cocoa before bed. I took a long relaxing hot bath and got settled in my bed. I was under the covers and drifted to sleep in under ten short minutes as I was quite tired.\nUnfortunately, the night was not so relaxing as I kept on having these nightmares which went like this:\n",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 89,
+      "content": "'It was so strange because I kept seeing this house, only it wasn't renovated. There was this old woman who sat on a rocking chair in the backyard. She was surrounded by different farm animals. There were various goats, sheep, cows, dogs, chickens, and donkeys as well.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 145,
+      "asset": "todw-04-old-lady2.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 155,
+      "content": "As she sat there, rocking her chair violently, there was something manic about how she stared into the void. She carried an angry expression, and the next instant, she ran up to the animals and started torturing them. She grabbed a wood chopping axe and started cutting the animals while they were alive. She had attacked a few of them fatally, which is why they failed to run. I saw her chopping and mauling their wounded bodies, and she dug her fingers in their cuts and forced the skin apart. I stood and stared at the scene from a distance until she looked back at me, straight in the eyes, and smiled.\"",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 114,
+      "asset": "todw-05-old-lady-smile.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 166,
+      "content": "After this uncomfortably strange dream,\n\nI jerked up, wide awake, covered with sweat.\nI couldn't even breathe properly.\nI had never been so scared in my entire life.\nI was practically choking until I drank two glasses of water.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 113,
+      "content": "I let it slide off, and it took me a lot of effort to sleep that night. The next morning when I sat at the table, it happened again. Again, I saw the woman staring at me with a sharp knife in her hand in the kitchen. I got up from my place and ran in the opposite direction, still looking back at her until my head bumped into a wall. I opened my eyes; I was still sitting at the table with my breakfast in front of me. It had gotten cold now.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 169,
+      "content": "'Was I suffering from hallucinations?\nWho was this old woman?'",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 144,
+      "content": "I went out of the town, and I found a few friendly people there. I sat with them at a table and talked. When I told them where I lived, they told me the backstory, which was shocking. They told me how my house had stayed uninhibited since 1968. They told me it belonged to an old woman who kept many animals at her farm and tortured them.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 127,
+      "asset": "todw-06-chicken.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 70,
+      "asset": "todw-07-chicken.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 62,
+      "asset": "todw-08-old-lady-smile.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 529,
+      "content": "Many of them had observed her being aggressive towards the animals to an extent where they eventually died. The townspeople had asked her to move out of their town due to this behavior at which she said, \"You're going to regret this, I'll never leave this town!\"",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 118,
+      "content": "She committed suicide that very night and the new residents of the house were never able to live there peacefully.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 243,
+      "asset": "todw-09-old-lady-hanging.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 168,
+      "content": "I was afraid now, afraid of seeing her again, fearful for my life. I went back and tried to reason. 'How can a dead person harm me?' I laughed at the thought and went to bed, quite relaxed now.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 558,
+      "content": "As I was sleeping, I dreamed again. I saw the old woman standing in the doorway, staring at me, smiling. She carried a big knife in her hand. I could merely see her silhouette. She was coming closer and stopped at the foot of my bed, looming over me. My eyes opened as wide as they could go as I woke up, and I sat up, rubbing my eyes and massaging my head as I had an unbearable headache. I looked up and saw the woman still standing there. I screamed, but it was too late. She had come up at the bed and had started choking me. She was inhumanly strong, and I couldn't move a single muscle under her. As I was almost dead, she took out the knife and stabbed me over and over in every inch of my body. \n\n\n\n\n\n\n\n\n\n\n\n\nShe stabbed my stomach, then my heart, and then she stabbed the blade inside of my mouth and shoved it inside my throat.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 145,
+      "asset": "todw-10-chains.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 162,
+      "content": "I had lost too much blood, and all my vital organs had been damaged. The world grew darker and darker until it was pitch black. \n\nI don’t know who I am or even what I am doing here.",
+      "color": "#FFFFFF",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "asset": "todw-11-dead-woman.png",
+      "horizontalGap": 0
+    }
+  ]
+}

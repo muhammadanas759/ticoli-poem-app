@@ -1,0 +1,169 @@
+{
+  "storyId": "kid_story_002",
+  "zipFileName": "p_forest.zip",
+  "assetPackageUrl": "https://firebasestorage.googleapis.com/v0/b/ticoli-dcd27.appspot.com/o/p_forest.zip?alt=media&token=c32ea3e4-6c49-4eaf-8f96-622323081222",
+  "localDir": "p_forest",
+  "title": "Rogu's Forest",
+  "homeCoverAsset": "assets/p_forest/story_two_cover.png",
+  "thumbnailAsset": "assets/images/kids-01.png",
+  "duration": 6,
+  "date": null,
+  "catalogType": "Ready",
+  "coverImageAsset": "img_story_2_full_cover.png",
+  "paddingTop": 88,
+  "paddingBottom": 40,
+  "fontFamily": "#FCFAD6",
+  "fontSize": 40,
+  "backgroundTransitions": [
+    {
+      "startColor": "#FCFAD6",
+      "endColor": "#FCFAD6",
+      "itemRefId": 1,
+      "location": "Center",
+      "duration": 0.2
+    }
+  ],
+  "items": [
+    {
+      "gap": 60,
+      "content": "Rogu, Timmy’s dog,\nwas a jolly old fellow.\nHe had been by\nTimmy’s side for as\nlong as he could\nremember.0-0text_ype:baloon:It was Tim’s birthday0-0when a peculiar event0-0took place.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:He was turning five, and he had invited all his friends. They lived close to the woods, which was congested with thick trees, which always kept shade.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:It was Tim’s favorite place to go and play with his parents and Rogu.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_house.png",
+      "horizontalGap": 50
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:On his birthday, a large number of people had gathered up in their backyard. All the adults were busy with the setups, while Timmy was busy playing with his friends. Rogu had no one to play with, which is why he went to the far corner of the yard.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:middle:He heard a slight0-0movement in the0-0bushes0-0due to his",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "text_ype:extra sensitive hearing abilities. With a quick motion, he leaped over the hedge and followed the sounds. To Rogu’s horror, the trees were blazing with an intense fire. It was spreading very quickly due to the trees being so close to each other. ",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_dog.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 180,
+      "asset": "img_dog_sad.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:In a few moments, it was going to reach Tim’s house, and everyone there was unaware of the fact that they were in so much danger. ",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_dog_jump.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 60,
+      "asset": "img_forest_fire.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:Rogu ran back as fast as he could, back to his house, and went straight to Timmy’s dad. At first, he refused to listen to what Rogu had to say as he was too preoccupied with the arrangements, but then, Rogu barked his unusual bark that indicated that something was wrong. ",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_experiment.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:He asked, “What is it, boy?”. Rogu ran ahead and stopped in the doorway, indicating to follow him. He seemed quite restless.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:He followed him out and discovered the fire before it was too late. ",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_dog_bite.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 60,
+      "asset": "img_dog_run.png",
+      "horizontalGap": 90
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:He followed him out and discovered the fire before it was too late. ",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_man_saw_fire.png",
+      "horizontalGap": 90
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:The fire brigade was immediately called, and everyone was saved.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_fire_stop.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 60,
+      "content": "text_ype:If it wasn’t for Rogu’s heroic efforts, the happy day would’ve turned into a very sad ",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "text_ype:hear:one.0-0Rogu received a0-0lot of love from0-0everyone.0-0 He was0-0given loads of treats and cuddles, which made him want to help whenever someone needed it.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_dog_happy.png",
+      "horizontalGap": 0
+    }
+  ],
+  "audioItems": [
+  ]
+}

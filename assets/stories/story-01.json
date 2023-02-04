@@ -1,0 +1,461 @@
+{
+  "storyId": "hs0001",
+  "zipFileName": "gmt.zip",
+  "assetPackageUrl": "https://firebasestorage.googleapis.com/v0/b/goodnighthorror.appspot.com/o/gmt.zip?alt=media&token=806af301-3e3a-46b1-a84f-9e23e2b7783f",
+  "localDir": "gmt",
+  "coverTitleAsset": "title.png",
+  "coverImageAsset": "cover.png",
+  "title": "Ghost in Masung Tunnel",
+  "homeCoverAsset": "assets/images/tale_masung_tunnel.png",
+  "thumbnailAsset": "assets/images/thumb-masung_tunnel.png",
+  "duration": 4,
+  "date": null,
+  "catalogType": "Ready",
+  "paddingTop": 919,
+  "paddingBottom": 99,
+  "fontFamily": "Lato",
+  "fontSize": 36,
+  "backgroundTransitions": [
+    {
+      "itemRefId": 1,
+      "startColor": "#ffffff",
+      "endColor": "#000000",
+      "location": "Top",
+      "duration": 0.2
+    },
+    {
+      "itemRefId": 2,
+      "startColor": "#000000",
+      "endColor": "#ffffff",
+      "location": "Bottom",
+      "duration": 0.2
+    },
+    {
+      "itemRefId": 3,
+      "startColor": "#ffffff",
+      "endColor": "#1D283B",
+      "location": "Top",
+      "duration": 0.2
+    }
+  ],
+  "items": [
+    {
+      "gap": null,
+      "content": "It happened several years ago.",
+      "color": "#939394",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 160,
+      "asset": "image-1.png",
+      "horizontalGap": null
+    },
+    {
+      "gap": 214,
+      "content": "I was on my way to my hometown, alone, on an express bus.",
+      "color": "#939394",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 160,
+      "asset": "image-2.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 214,
+      "asset": "image-3-eyes-close-up.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 60,
+      "asset": "image-4-eyes-close-up.png",
+      "horizontalGap": 75
+    },
+    {
+      "id": 1,
+      "gap": 706,
+      "content": "There was only 10 or less passengers seated here and there.",
+      "color": "#939394",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 156,
+      "content": "As the bus slid into a tunnel, with the surrounding becoming dark..",
+      "color": "#939394",
+      "align": null,
+      "width": 360
+    },
+    {
+      "id": 4,
+      "gap": 105,
+      "initialAsset": "image-5-back-seat-bright.png",
+      "finalAsset": "image-6-back-seat-dark.png",
+      "horizontalGap": 75,
+      "duration": 0.2
+    },
+    {
+      "gap": 156,
+      "content": "I let my eyes shut closing the book I was reading on the bus to kill boredom of along bus ride home.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 75,
+      "asset": "image-7.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 156,
+      "content": "It was not longe before I fell asleep. I might have been pretty  tired.",
+      "color": "#ffffff",
+      "align": "center",
+      "width": 360
+    },
+    {
+      "gap": 156,
+      "content": "Some time has passed.",
+      "color": "#ffffff",
+      "align": "center",
+      "width": 360
+    },
+    {
+      "gap": 1912,
+      "asset": "image-8-lights.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 156,
+      "content": "I opened my eyes again and stared outside to find that we were still in the tunnel looking all glaring red while the bus was running continuously.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 596,
+      "asset": "image-9-lights.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 156,
+      "content": "Since it felt as if quite a long lapse of time, I just throught that it was another tunnel different from the one where I fell asleep.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 156,
+      "content": "But, no matter how far the bus ran..",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 156,
+      "content": "There was no end to the tunnel.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 156,
+      "content": "It seemed as if an air from somewhere outside this world was surrounding me giving me an awkward and discomfort feeling. I had chills all over my body.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 156,
+      "content": "I leaned over to the corridor to have a better glimpse of inside.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 200,
+      "asset": "image-10.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 156,
+      "content": "All of the passengers seemed to be asleep, letting their bodies slip to the side, however it did not give me a clear view due to the seats and high-backs.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 156,
+      "content": "I turned around to see the tail part of the bus ---",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 875,
+      "asset": "image-11.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 82,
+      "asset": "image-12-dead-people.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 156,
+      "content": "... to find out some passengers lying on the floor with fatal damages to their body and bleeding heavily.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 156,
+      "content": "A feeling of a terrible accident crossed my mind, then suddently...",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 400,
+      "content": "A creapy noise came from the front.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 1426,
+      "asset": "image-13-close-up.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 74,
+      "asset": "image-10.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 203,
+      "asset": "image-17-creature.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 312,
+      "asset": "image-18-knife.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 309,
+      "asset": "image-18-creature.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 156,
+      "content": "From then I don't have  an exact memory.",
+      "color": "#ffffff",
+      "align": "center",
+      "width": 360
+    },
+    {
+      "gap": 748,
+      "asset": "image-19.png",
+      "horizontalGap": null
+    },
+    {
+      "gap": 156,
+      "content": "I panickingly pushed my seat belt button to loosen my self until all finger nails were broken into pieces --- but...",
+      "color": "#ffffff",
+      "align": "center",
+      "width": 360
+    },
+    {
+      "gap": 682,
+      "asset": "image-20.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 156,
+      "content": "Strangely the seatbelt did not move a bit.",
+      "color": "#ffffff",
+      "align": "center",
+      "width": 360
+    },
+    {
+      "gap": 414,
+      "asset": "image-21.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 206,
+      "asset": "image-22.png",
+      "horizontalGap": null
+    },
+    {
+      "gap": 84,
+      "asset": "image-23.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 156,
+      "content": "The knife of the child went straight through my thigh, leaving me a burning pain and stripped myself of concious.",
+      "color": "#ffffff",
+      "align": "center",
+      "width": 360
+    },
+    {
+      "id": 2,
+      "gap": 1366,
+      "asset": "image-24-waking-up.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 74,
+      "content": "I woke up to find myself in a hospital ward.",
+      "color": "#000000",
+      "align": "center",
+      "width": 360
+    },
+    {
+      "gap": 302,
+      "content": "There might have been a terrible accident. TV newsman went on and on to report this accident every day.",
+      "color": "#000000",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 253,
+      "asset": "image-25-bus.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 73,
+      "content": "The bus collision left only myself and another passenger alive, there were 8 dead, including the driver.",
+      "color": "#000000",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 157,
+      "content": "People say I was in come for 2 days with a severe damage in my leg and an injury in the head. It really was a major accident but, they say, I survived because of the seat belt, that protected me from boucing out of the bus.",
+      "color": "#000000",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 142,
+      "content": "I tried to convince the doctor, nurses and even police officers investigating the case about the kid I saw on the bus...",
+      "color": "#000000",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 225,
+      "asset": "image-26.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 149,
+      "content": "...but no one seemed to believe me.",
+      "color": "#000000",
+      "align": null,
+      "width": 360
+    },
+    {
+      "id": 3,
+      "gap": 197,
+      "asset": "image-27.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 383,
+      "content": "Another survivor is still in coma.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 99,
+      "asset": "image-28.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 52,
+      "asset": "image-29.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 99,
+      "content": "He is in a ward right next to mine.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 99,
+      "content": "That person probably might have seen what I saw on the bus.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 147,
+      "asset": "image-30.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 139,
+      "content": "There buried a family in mountain Seok.sung located in Yongin-si, Gyeonggi-do, decapitated to death, due to a wronfgul accusation as traitors by king Gwan-hae. One of them was a little child who just started to say a few words. A spirit of a young child looking like a falt rotten corpse used to come down to a village and claimed tens of people's life.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 215,
+      "content": "Having heard about the tragic story, Gwang-hae placed a large rock on at the field where the family is buried, and the ghost of a child was never to be seen again.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 167,
+      "content": "Masung tunnel where the accident took place runs through mt. Seok-sung and was open for traffic in 1994.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    },
+    {
+      "gap": 163,
+      "asset": "image-31.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 147,
+      "asset": "image-32.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 147,
+      "asset": "image-33.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 147,
+      "asset": "image-34.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 116,
+      "asset": "image-35.png",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 166,
+      "content": "The End.",
+      "color": "#ffffff",
+      "align": null,
+      "width": 360
+    }
+  ],
+  "audioItems": [
+  ]
+}

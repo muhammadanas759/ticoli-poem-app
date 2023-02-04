@@ -1,0 +1,185 @@
+{
+  "storyId": "hs0003",
+  "zipFileName": "voodoo.zip",
+  "assetPackageUrl": "https://firebasestorage.googleapis.com/v0/b/goodnighthorror.appspot.com/o/voodoo.zip?alt=media&token=b06c324f-659d-455d-a23d-e080d9cdd289",
+  "localDir": "voodoo",
+  "title": "Voodoo Artefacts",
+  "homeCoverAsset": "assets/images/tale_voodoo_artefacts.png",
+  "thumbnailAsset": "assets/images/thumb-voodoo.png",
+  "duration": 3,
+  "date": null,
+  "catalogType": "Ready",
+  "coverTitleAsset": "voodoo-title.png",
+  "coverImageAsset": "voodoo-cover.png",
+  "paddingTop": 233,
+  "paddingBottom": 119,
+  "fontFamily": "Arvo",
+  "fontSize": 40,
+  "backgroundTransitions": [
+    {
+      "startColor": "#ffffff",
+      "endColor": "#000000",
+      "itemRefId": 1,
+      "location": "Top",
+      "duration": 0.2
+    }
+  ],
+  "items": [
+    {
+      "content": "I had been sick of my present life. Everything seemed wrong to me, and I felt out of place.",
+      "color": "#000000",
+      "width": 510
+    },
+    {
+      "gap": 200,
+      "content": "After graduation, I had got a decent job that paid well, but I was never satisfied with anything. I had this empty feeling inside of me that led me to move out of my city and travel abroad in order to start a new life.",
+      "color": "#000000",
+      "width": 510
+    },
+    {
+      "id": 2,
+      "video": true,
+      "gap": 216,
+      "asset": "voodoo-office.json",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 163,
+      "content": "I hoped to get a new job there as well as own a house and make new friends. I had the feeling that my current friends weren’t fair to me, or at least I didn’t feel really connected, which only boosted my decision.",
+      "color": "#000000",
+      "width": 510
+    },
+    {
+      "gap": 244,
+      "content": "As I traveled to a different country, I first faced the problem of language. It was a bit difficult for me to communicate and ask for mere directions from people. My first goal was to find a permanent place to stay. I went ahead to look for a flat as I saw this option more convenient. I ended up finding a sublet for a very reasonable price. Its size was perfect, and it was precisely in the center of the city, making everything easier for him.",
+      "color": "#000000",
+      "width": 510
+    },
+    {
+      "gap": 261,
+      "content": "The first night I stayed at a motel as the flat needed some cleaning up because its owner had been living in Africa for studying symbolism and religion for a long time now, and the apartment had stayed vacant since then.\n\nThe next day I moved into the flat. It was almost night.\n\nThe first step I took sent odd shivers down my spine.\n\n\n\n\n\nI experienced a bizarre feeling.\n\nIt was dark, cold and the flat looked quite old.",
+      "color": "#000000",
+      "width": 510
+    },
+    {
+      "id": 3,
+      "video": true,
+      "gap": 203,
+      "asset": "voodoo-opening-door.json",
+      "horizontalGap": 35
+    },
+    {
+      "gap": 224,
+      "content": "It was an already furnished flat. The owner was interested in magic as almost every wall, every table, and every window.\n\nNearly the entire flat was full of symbols.",
+      "color": "#000000",
+      "width": 510
+    },
+    {
+      "id": 4,
+      "video": true,
+      "gap": 104,
+      "asset": "voodoo-zoom-room.json",
+      "horizontalGap": 35
+    },
+    {
+      "id": 1,
+      "gap": 369,
+      "content": "It seemed very weird to me, but I decided to ignore it as I had gotten it for very minimum rent. I settled in and prepared to sleep as it was getting quite late.",
+      "color": "#000000",
+      "width": 510
+    },
+    {
+      "gap": 490,
+      "content": "My first night was not as great as I was not able to sleep properly. At first, I just decided to brush it off because it was a new place, and it was natural for me to feel restless.\n\nBut it did not stop there.\n\n\nThe uncomfortable nights lasted up to an entire week. I had been enjoying the days outside of the flat, I had made good friends here as I began learning their language, and the communication barrier narrowed down to a reasonable extent. The days went perfectly fine. It was the nights that were dark and gloomy for me.",
+      "color": "#FFFFFF",
+      "width": 510
+    },
+    {
+      "id": 5,
+      "video": true,
+      "gap": 377,
+      "asset": "voodoo-face-zoom.json",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 308,
+      "content": "I would feel so low and so restless as soon as I stepped inside the flat.\nThe restless nights continued. Only, it got way worse. I used to wake up in the middle of the nights, sweating from head to toe, with a hitched breath. When I woke up, I would have a panic attack and would not be able to relax. I felt so scared, yet I knew not what scared me. I thought it was some mental problem, and I needed to see a psychiatrist, but my views changed one night when I woke up again.\n\n\nI opened my eyes; I was resting on my side. I could hear someone breathing hoarsely behind me. I was frozen in my place. I felt the weight shift from the bed as whoever was behind me moved.",
+      "color": "#FFFFFF",
+      "width": 510
+    },
+    {
+      "id": 6,
+      "video": true,
+      "gap": 247,
+      "asset": "voodoo-bed-scared.json",
+      "horizontalGap": 35
+    },
+    {
+      "gap": 314,
+      "content": "I jumped off the bed and ran to turn the lights on, but the room was empty when I did. There was no one there.",
+      "color": "#FFFFFF",
+      "width": 510
+    },
+    {
+      "gap": 228,
+      "asset": "voodoo-06-image.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 267,
+      "content": "Again, I thought it was a part of my dream, and I had only imagined the entire thing. Every night, I woke up and felt that someone was watching me. I saw the voodoo symbols, the faces in them staring right back at me, creeping me out more.",
+      "color": "#FFFFFF",
+      "width": 510
+    },
+    {
+      "id": 8,
+      "video": true,
+      "gap": 242,
+      "asset": "voodoo-masks.json",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 582,
+      "content": "I decided to take down all the symbols, and I put them in a box and locked them up in the storage room.",
+      "color": "#FFFFFF",
+      "width": 510
+    },
+    {
+      "gap": 600,
+      "asset": "voodoo-08-image.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 270,
+      "content": "That night, I slept with all the lights on. It was hard to sleep for me at first, but eventually, I fell asleep. A loud noise woke me up with a jerk. It persisted. It was coming from the storage room. It sounded as if the boxes in there were falling, but my focus shifted from the boxes as I examined his surroundings.\n\nAs I began to wake up, I realized that someone was sitting on the bed next to me.\n\nI could only see the silhouette of the thing that looked human but was not human from the way it breathed. The lights were off, unlike I had left them. I slowly moved in the hope of getting out of bed. The silhouette turned its head towards me, and I ran as fast as I could. As I was running out of the flat, I passed by the storage room and noticed how the voodoo box was laying open, and everything inside of it was laying on the ground.",
+      "color": "#FFFFFF",
+      "width": 510
+    },
+    {
+      "id": 9,
+      "video": true,
+      "gap": 196,
+      "asset": "voodoo-box-floor.json",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 212,
+      "content": "I ran and stood outside in front of my flat. I looked up to my window and saw the silhouette figure staring back at me.",
+      "color": "#FFFFFF",
+      "width": 510
+    },
+    {
+      "id": 11,
+      "video": true,
+      "gap": 336,
+      "asset": "voodoo-leaving-home.json",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 1660,
+      "content": "I never set my foot close to the flat again.",
+      "color": "#FFFFFF",
+      "width": 510
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "storyId": "kid_story_001",
+  "zipFileName": "gno.zip",
+  "assetPackageUrl": "https://firebasestorage.googleapis.com/v0/b/ticoli-dcd27.appspot.com/o/gno.zip?alt=media&token=691458b7-a8d0-4b92-8d0e-d6a55d41e091",
+  "localDir": "gno",
+  "coverImageAsset": "ic_cover.svg",
+  "coverTitleAsset": "ic_cover_title.svg",
+  "title": "Good Night Owl",
+  "homeCoverAsset": "assets/gno/img_gno_cover.png",
+  "thumbnailAsset": "assets/images/ic_good_night_owl.svg",
+  "duration": 4,
+  "date": null,
+  "catalogType": "Ready",
+  "paddingTop": 100,
+  "paddingBottom": 99,
+  "fontFamily": "Lato",
+  "fontSize": 36,
+  "backgroundTransitions": [
+    {
+      "itemRefId": 1,
+      "startColor": "#ffffff",
+      "endColor": "#000000",
+      "location": "Top",
+      "duration": 0.2
+    }
+  ],
+  "items": [
+    {
+      "content": "It was getting late at night. Everyone was preparing to sleep. The animals in the woods were going back to the dens and nests.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 105,
+      "content": "Then the mama owl flew around the neighborhood and found out about the little boys and girls, who were still awake.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 110,
+      "content": "The mama owl flew back and told the other animals about those children. They promptly planned to do something about it.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 920,
+      "video": true,
+      "id": 1,
+      "play_button": true,
+      "asset": "anim_children_playing.json",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 100,
+      "asset": "img_rectangle.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 40,
+      "video": true,
+      "id": 2,
+      "asset": "anim_owl_thinking.json",
+      "play_button": true,
+      "horizontalGap": 75
+    },
+    {
+      "gap": 100,
+      "content": "The mama owl flew back and told the other animals about those children. They promptly planned to do something about it.",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 100,
+      "content": "The mama owl instructed the animals to gather around the houses secretly and make soft sounds. They went up close to each kid's window and made soft sounds very soothing to hear.",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 400,
+      "content": "The mama owl was the first one! Her hoots were like a song, and they were melodious.",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 100,
+      "video": true,
+      "id": 3,
+      "asset": "anim_owl_singing.json0_0play_button",
+      "play_button": true,
+      "horizontalGap": 75
+    },
+    {
+      "gap": 100,
+      "content": "Uh Uuuhhhh!   Uuuh Uuuuhhhhhhh! --- Saying good night to the children…",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 200,
+      "content": "Then it came the Mr. Cricket",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "video": true,
+      "id": 4,
+      "asset": "anim_cricket_singing.json0_0play_button",
+      "play_button": true,
+      "horizontalGap": 0
+    },
+    {
+      "gap": 0,
+      "content": "Cri cri cri…. Cri cri cri… --- Saying good night to the children...",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 150,
+      "content": "Then it came the baby wolf",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "video": true,
+      "id": 5,
+      "asset": "anim_wolf_singing.json0_0play_button",
+      "play_button": true,
+      "horizontalGap": 0
+    },
+    {
+      "gap": 0,
+      "content": "Howl Hoooowlll…. Hoooowl Hoooowwwlll….",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "video": true,
+      "id": 6,
+      "asset": "anim_wolf_animation.json0_0play_button",
+      "play_button": true,
+      "horizontalGap": 0
+    },
+    {
+      "gap": 0,
+      "asset": "img_wolf_howl_one.png",
+      "horizontalGap": 150
+    },
+    {
+      "gap": 100,
+      "asset": "img_wolf_howl_two.png",
+      "horizontalGap": 150
+    },
+    {
+      "gap": 300,
+      "content": "Then it came the last the Lady Snake",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 50,
+      "video": true,
+      "id": 7,
+      "asset": "anim_snake_singing.json0_0play_button",
+      "play_button": true,
+      "horizontalGap": 75
+    },
+    {
+      "gap": 100,
+      "content": "Shhhhh……. Shhh…..     Shhhhhh…..",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 200,
+      "content": "Shhhhh……",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 100,
+      "content": "Slowly, the children found their eyelids getting heavy and felt safe because of the owls' song. ",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 100,
+      "content": "With a smile on their faces, they slowly closed their eyes.",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 100,
+      "asset": "anim_sleeping.svg",
+      "horizontalGap": 75
+    },
+    {
+      "gap": 100,
+      "content": "Seeing them asleep, the mama owl told the other animals to go back to their home to sleep. The mama owl flew over, circling the houses in case another child woke up and needed a lullaby. He kept a watch on them, keeping everybody safe.",
+      "color": "#ffffff",
+      "width": 500
+    },
+    {
+      "gap": 100,
+      "asset": "img_last.png",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 0,
+      "video": true,
+      "id": 8,
+      "asset": "anim_last.json",
+      "play_button": true,
+      "horizontalGap": 0
+    }
+  ],
+  "audioItems": [
+    {
+      "asset": "assets/audio/sound_children_playing_3.mp3",
+      "startItemRefId": 1,
+      "endItemRefId": 3
+    },
+    {
+      "asset": "assets/audio/sound_snake.mp3",
+      "startItemRefId": 7,
+      "endItemRefId": 3
+    },
+    {
+      "asset": "assets/audio/sound_owl_singing_4.mp3",
+      "startItemRefId": 3,
+      "endItemRefId": 4
+    },
+    {
+      "asset": "assets/audio/sound_cricket_singing_5.mp3",
+      "startItemRefId": 4,
+      "endItemRefId": 5
+    },
+    {
+      "asset": "assets/audio/sound_wold_singing_6.mp3",
+      "startItemRefId": 5,
+      "endItemRefId": 6
+    },
+    {
+      "asset": "assets/audio/sound_wold_singing_6.mp3",
+      "startItemRefId": 6,
+      "endItemRefId": 7
+    },
+    {
+      "asset": "assets/audio/sound_story_end_9.mp3",
+      "startItemRefId": 8,
+      "endItemRefId": 7
+    },
+    {
+      "asset": "assets/audio/sound_coover.mp3",
+      "startItemRefId": 13,
+      "endItemRefId": 7
+    }
+  ]
+}

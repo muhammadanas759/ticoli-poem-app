@@ -1,0 +1,24 @@
+{
+  "storyId": "kid_story_007",
+  "zipFileName": "gwaps.zip",
+  "assetPackageUrl": "",
+  "localDir": "gwaps",
+  "title": "El Phant",
+  "homeCoverAsset": "assets/images/img_el_phant.png",
+  "thumbnailAsset": "assets/images/img_elephant_thumbnail.svg",
+  "duration": 6,
+  "date": null,
+  "coverTitleAsset": "assets/images/img_story_name.png",
+  "catalogType": "Locked",
+  "coverImageAsset": "img_story_cover_three.png",
+  "paddingTop": 88,
+  "paddingBottom": 40,
+  "fontFamily": "#FEFFFF",
+  "fontSize": 40,
+  "backgroundTransitions": [
+  ],
+  "items": [
+  ],
+  "audioItems": [
+  ]
+}

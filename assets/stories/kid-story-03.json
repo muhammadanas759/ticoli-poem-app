@@ -1,0 +1,191 @@
+{
+  "storyId": "kid_story_003",
+  "zipFileName": "gwaps.zip",
+  "assetPackageUrl": "https://firebasestorage.googleapis.com/v0/b/ticoli-dcd27.appspot.com/o/gwaps.zip?alt=media&token=253ba800-4534-47de-a7ce-2ec6bf216be9",
+  "localDir": "gwaps",
+  "title": "Girl With A Pink Shoe",
+  "homeCoverAsset": "assets/gwaps/img_story_home_cover.png",
+  "thumbnailAsset": "assets/images/kids-03.png",
+  "duration": 6,
+  "date": null,
+  "catalogType": "Ready",
+  "coverImageAsset": "img_story_cover_three.png",
+  "paddingTop": 88,
+  "paddingBottom": 40,
+  "fontFamily": "#F6F6F6",
+  "fontSize": 40,
+  "backgroundTransitions": [
+    {
+      "startColor": "#F6F6F6",
+      "endColor": "#F6F6F6",
+      "itemRefId": 1,
+      "location": "Center",
+      "duration": 0.2
+    }
+  ],
+  "items": [
+    {
+      "gap": 0,
+      "content": "bar_text:one:There was a boy0-0named Harry who had0-0a dog named Tommy.0-0and today, Harry wanted0-0to play with Tommy.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "harry:Tommy Tommy, would\nyou like to play?",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "tommy:Woof woof!\n(I would love to play)",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_story_four.svg",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 0,
+      "content": "bar_text:two:They Went to park0-0near the house. Harry0-0was throwing the ball0-0and Tommy would find0-0the ball in the grass and0-0bring it back.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "harry:Tommy Tommy, where\nis the ball?",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "simple:Tommy brings the back back...",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "tommy:Woof Woof!\n(The ball is here!)",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "simple:Harry again threw the ball...",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "harry:Tommy Tommy, bring\nbring back the ball!",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "simple:But then something\nunexpected happen!",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_story_eleven.svg",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 0,
+      "content": "harry:Tommy Tommy, who's\nthe owner of this shoes?",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "tommy:Bow-wow bow - wow\n(I don't know)",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "bar_text_three:Harry was curious and0-0also he wanted to give it0-0back to the person it0-0belonged to.0-0They both agreed to find0-0out the owner of that0-0lovely pink shoe!",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_story_fifteen.svg",
+      "horizontalGap": 110
+    },
+    {
+      "gap": 0,
+      "content": "bar_text_four:Let's see if there's0-0anyone with other0-0shoes.0-0Few girls were playing0-0nearby.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_story_sventeen.svg",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 60,
+      "asset": "img_story_eighteen.svg",
+      "horizontalGap": 55
+    },
+    {
+      "gap": 60,
+      "asset": "img_story_ninteen.svg",
+      "horizontalGap": 110
+    },
+    {
+      "gap": 0,
+      "content": "bar_text_five:Harry saw a girl with0-0only one pink shoe.0-0He gave her the other0-0shoe back.",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "girl:Thank you so much!\n Hi hi hi",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "girl:Would you like to be\nmy friend?",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "tommy:Bow-wow bow wow\n(Yes!)",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "harry:Of Course. Let's play!",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 0,
+      "content": "bar_text_six:Then they started0-0playing with the ball...",
+      "color": "#000000",
+      "width": 500
+    },
+    {
+      "gap": 60,
+      "asset": "img_story_twenty_six.svg",
+      "horizontalGap": 0
+    },
+    {
+      "gap": 0,
+      "content": "bar_text_seven:Whooouuf whouf!0-0(The end)",
+      "color": "#000000",
+      "width": 500
+    }
+  ],
+  "audioItems": [
+  ]
+}

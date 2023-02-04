@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>109656374275-0ibah5ncui4hm1mjujoeb5irng2vs4iu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.109656374275-0ibah5ncui4hm1mjujoeb5irng2vs4iu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBoaDT550cRBp3MOPb2t-rYXSMrGz4HLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>109656374275</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobile.goodnighthorror</string>
+	<key>PROJECT_ID</key>
+	<string>ticoli-dcd27</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ticoli-dcd27.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:109656374275:ios:badbc926ca3bc48c676236</string>
+</dict>
+</plist>
